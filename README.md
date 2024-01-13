@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mansur and I'm a Python developer, from Tajikistan.</h2>
+<h2 align="left">Hi 👋! My name is Mansur and I'm a Python python developer, from Tajikistan.</h2>
 
 ###
 
@@ -60,12 +60,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mansurfayziev/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/61/40/68/61406821fcb68e172120a3dc638cd1d1.png"  />
 </div>
 
 ###
