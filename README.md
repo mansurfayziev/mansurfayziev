@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mansur and I'm a Python python developer, from Tajikistan.</h2>
+<h2 align="left">Hi 👋! My name is Mansur and I'm a Python developer, from Tajikistan.</h2>
 
 ###
 
