@@ -36,13 +36,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@xcho_tm" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/__m_fayziev__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/PyTajtm" target="_blank">
+  <a href="https://t.me/m_fayziev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/qr/R46EXVINUN6ZP1" target="_blank">
